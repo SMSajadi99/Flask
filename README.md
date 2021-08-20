@@ -6,7 +6,7 @@ Flask is considered more Pythonic than the Django web framework because in commo
 
 For example, here is a valid "Hello, world!" web application with Flask:
 
-```
+```python
 from flask import Flask
 app = Flask(__name__)
 
